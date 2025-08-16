@@ -20,8 +20,7 @@ page_to_scrape = webdriver.Chrome(service=browser_driver, options=chrome_options
 
 try:
     # Step 1: Navigate to the page
-    page_to_scrape.get("https://cs.elfak.ni.ac.rs/nastava/")
-    page_to_scrape.find_element(By.XPATH, "/html/body/div[1]/nav/ul[2]/li[2]/div/span/a").click()
+    page_to_scrape.get("https://cs.elfak.ni.ac.rs/nastava/login/index.php")
     time.sleep(2)
 
     # Step 2: Log in via OpenID Connect
