@@ -46,20 +46,20 @@ try:
     # Step 6: Navigate to the main page
     page_to_scrape.get("https://cs.elfak.ni.ac.rs/nastava/course/view.php?id=45")
 
-    responseT = page_to_scrape.find_element(By.XPATH, '//*[@id="region-main"]')
+    responseT1 = page_to_scrape.find_element(By.XPATH, '//*[@id="region-main"]')
     
-    height = responseT.size['height']
-    width = responseT.size['width']
+    height = responseT1.size['height']
+    width = responseT1.size['width']
 
     
     desired_width = max(width, 1200)  
 
-    desired_height = min(height, 10000)
+    desired_height = min(height, 5000)
 
     page_to_scrape.set_window_size(desired_width, desired_height)  
 
    
-    page_to_scrape.execute_script("arguments[0].scrollIntoView(true);", responseT)
+    page_to_scrape.execute_script("arguments[0].scrollIntoView(true);", responseT1)
 
     responseT.screenshot('cs-oop1-nova-obavestenja.png')
 
