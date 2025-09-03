@@ -1,11 +1,19 @@
 Advanced search...
 Forums
-Search results: 12
+Search results: 13
 1
 (current)
 2
 »
 Next page
+Obaveštenja -> OOP - Usmeni deo ispita u januarskom ispitnom roku
+by Anđelija Đorđević - Wednesday, 3 September 2025, 4:36 PM
+U prilogu se nalazi spisak studenata koji su položili pisani deo ispita u januarskom ispitnom roku i pozivaju se na usmeni deo ispita.
+Usmeni deo ispita održaće se u petak, 5. septembra, u 14h, u prostoriji K1. 
+
+OOP- januarski rok 2025 - Polozeni pisani deo ispita.pdf
+Permalink
+See this post in context
 Obaveštenja -> OOP - Raspored polaganja drugog kolokvijuma i ispita u januarskom ispitnom roku
 by Anđelija Đorđević - Wednesday, 3 September 2025, 7:15 AM
 U nastavku se nalazi raspored polaganja drugog kolokvijuma i celog ispita u januarskom ispitnom roku.
@@ -124,11 +132,6 @@ by Anđelija Đorđević - Tuesday, 1 October 2024, 11:58 AM
 12 19209 Маринковић Софија 0 0 0
 13 19295 Николов Миљана 0 0 0
 
-Permalink
-See this post in context
-Obaveštenja -> Октобар 2 - Термин усменог дела испита
-by Anđelija Đorđević - Friday, 27 September 2024, 10:45 AM
-Усмени део испита одржаће се у среду, 2. октобра, у 10 часова, у учионици 525.
 Permalink
 See this post in context
 1
