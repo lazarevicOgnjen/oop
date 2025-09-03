@@ -1,11 +1,22 @@
 Advanced search...
 Forums
-Search results: 11
+Search results: 12
 1
 (current)
 2
 »
 Next page
+Obaveštenja -> OOP - Raspored polaganja drugog kolokvijuma i ispita u januarskom ispitnom roku
+by Anđelija Đorđević - Wednesday, 3 September 2025, 7:15 AM
+U nastavku se nalazi raspored polaganja drugog kolokvijuma i celog ispita u januarskom ispitnom roku.
+Laboratorija 522 - Studenti koji polažu drugi kolokvijum i imaju indeks manji od 19820.
+Laboratorija 521 - Studenti koji polažu drugi kolokvijum i imaju indeks veći od 19820.
+Laboratorija 521 - Studenti koji polažu ceo ispit na smeru Elektronika.
+Laboratorija 521 - Studenti koji polažu ceo ispit (RII) sa brojem indeksa manjim od 18600.
+Laboratorija 79 (E3) - Studenti koji polažu ceo ispit (RII) sa brojem indeksa većim od 18600 i manjim od 19701.
+Laboratorija 81 (E4) - Studenti koji polažu ceo ispit (RII) sa brojem indeksa većim od 19701.
+Permalink
+See this post in context
 Obaveštenja -> OOП - Први колоквијум
 by Anđelija Đorđević - Tuesday, 10 December 2024, 12:19 PM
 Први колоквијум ће се одржати у среду, 11. децембра у два термина са почетком у 14.15 и 16.15 по следећем распореду:
@@ -118,14 +129,6 @@ See this post in context
 Obaveštenja -> Октобар 2 - Термин усменог дела испита
 by Anđelija Đorđević - Friday, 27 September 2024, 10:45 AM
 Усмени део испита одржаће се у среду, 2. октобра, у 10 часова, у учионици 525.
-Permalink
-See this post in context
-Obaveštenja -> Резултати усменог испита (октобар2024)
-by Aleksandar Veljanovski - Thursday, 19 September 2024, 3:45 PM
-Резултати испита за студенте који су Објектно оријентисано програмирање полагали у испитном року октобар наставне 2023/2024. године налазе се у прилогу овог обавештења.
-Упис оцена у понедељак 22.09.2024. у 10:00 у 533.
-
-Rezultati - ocene.pdf
 Permalink
 See this post in context
 1
